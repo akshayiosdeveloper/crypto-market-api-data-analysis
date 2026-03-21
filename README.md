@@ -6,7 +6,11 @@ visual insights using Matplotlib.
 
 ![Pipeline Status](https://github.com/akshayiosdeveloper/crypto-market-api-data-analysis/actions/workflows/crypto_pipeline.yml/badge.svg)
 
-The goal of this project is to practice working with:
+## Project Pipeline
+
+API → Data Cleaning → Historical Storage → Analysis → Visualization → Auto README Update
+
+## The goal of this project is to practice working with:
 
 - API Integration
 - Data Cleaning

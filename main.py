@@ -5,6 +5,7 @@ from analysis.insights import generate_insights
 from analysis.history import save_history
 from analysis.trend_analysis import market_trend
 from visualization.plot_data import plot_market_trend
+from analysis.update_readme import update_readme
 
 def main():
     print("Fetching API Data...")
@@ -43,7 +44,9 @@ def main():
     plot_top_gainers(gainers)
     plot_volume(top_coins)
     plot_market_trend(trend)
-
+    
+    # update readme automatically when pipeline runs
+    update_readme(df)    
 
 if __name__ == "__main__":
     main()
