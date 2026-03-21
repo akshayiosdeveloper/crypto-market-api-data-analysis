@@ -1,6 +1,8 @@
 # Crypto Market API Data Analysis
 
-This project fetches real-time cryptocurrency market data from an API and performs data analysis using Python.
+This project fetches live cryptocurrency market data using an API,
+performs data cleaning and analysis using Pandas, and generates
+visual insights using Matplotlib.
 
 The goal of this project is to practice working with:
 
