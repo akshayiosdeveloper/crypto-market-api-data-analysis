@@ -9,7 +9,7 @@ def fetch_crypto_data():
         "per_page": 50,
         "page": 1
     }
-    response = requests.get(url,params)
+    response = requests.get(url,params,timeout=10)
     if response.status_code != 200:
         print("API request failed!!")
         return None
