@@ -21,7 +21,7 @@ def plot_market_cap(df):
 def plot_top_gainers(df):
     df = df.sort_values(by="price_change_percentage_24h", ascending=True)
 
-    plt.figure(figsize=(14,7))
+    plt.figure(figsize=(16,7))
     plt.barh(df["name"], df["price_change_percentage_24h"])
 
     for index, value in enumerate(df["price_change_percentage_24h"]):
@@ -38,7 +38,7 @@ def plot_top_gainers(df):
 def plot_volume(df):
     df = df.sort_values(by="total_volume", ascending=True)
 
-    plt.figure(figsize=(14,7))
+    plt.figure(figsize=(16,7))
     plt.barh(df["name"], df["total_volume"])
 
     for index, value in enumerate(df["total_volume"]):
@@ -49,4 +49,25 @@ def plot_volume(df):
     plt.tight_layout()
 
     plt.savefig("charts/volume.png")
+    plt.show()
+    
+    #trend chart
+def plot_market_trend(trend):
+    import matplotlib.pyplot as plt
+
+    plt.figure(figsize=(14,6))
+
+    trend = trend.sort_index()
+
+    plt.plot(trend.index, trend.values, marker="o", linewidth=2)
+
+    plt.title("Total Crypto Market Trend")
+    plt.xlabel("Date")
+    plt.ylabel("Market Cap")
+    plt.grid(True)
+
+    plt.xticks(rotation=45)
+
+    plt.tight_layout()
+    plt.savefig("charts/market_trend.png")
     plt.show()
