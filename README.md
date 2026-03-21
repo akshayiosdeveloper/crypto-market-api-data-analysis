@@ -4,6 +4,8 @@ This project fetches live cryptocurrency market data using an API,
 performs data cleaning and analysis using Pandas, and generates
 visual insights using Matplotlib.
 
+![Pipeline Status](https://github.com/akshayiosdeveloper/crypto-market-api-data-analysis/actions/workflows/crypto_pipeline.yml/badge.svg)
+
 The goal of this project is to practice working with:
 
 - API Integration
