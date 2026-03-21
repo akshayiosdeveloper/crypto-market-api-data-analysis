@@ -128,3 +128,11 @@ Add advanced data visualizations
 ## Author
 
 Akshay
+
+
+## Latest Market Snapshot
+
+Top Coin: Bitcoin  
+Top Gainer: Pi Network  
+Highest Volume: Tether  
+Last Updated: 2026-03-21 11:28:32
