@@ -180,9 +180,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: Ondo  
+Top Gainer: Uniswap  
 Highest Volume: Tether  
-Last Updated: 2026-05-09 06:19:48
+Last Updated: 2026-05-10 06:36:04
