@@ -181,9 +181,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: Uniswap  
+Top Gainer: Sui  
 Highest Volume: Tether  
-Last Updated: 2026-05-10 06:36:04
+Last Updated: 2026-05-11 07:48:44
