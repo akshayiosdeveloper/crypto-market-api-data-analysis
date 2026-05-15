@@ -185,9 +185,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: Canton  
+Top Gainer: Hyperliquid  
 Highest Volume: Tether  
-Last Updated: 2026-05-14 06:48:32
+Last Updated: 2026-05-15 06:58:01
