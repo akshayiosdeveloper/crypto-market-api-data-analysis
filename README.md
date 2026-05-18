@@ -188,9 +188,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: Monero  
+Top Gainer: Hyperliquid  
 Highest Volume: Tether  
-Last Updated: 2026-05-17 06:47:46
+Last Updated: 2026-05-18 08:08:17
