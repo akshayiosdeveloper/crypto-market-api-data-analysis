@@ -193,9 +193,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: NEAR Protocol  
+Top Gainer: HTX DAO  
 Highest Volume: Tether  
-Last Updated: 2026-05-22 07:48:52
+Last Updated: 2026-05-23 06:36:12
