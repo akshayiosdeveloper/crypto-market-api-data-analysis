@@ -366,9 +366,10 @@ Akshay
 
 
 
+
 ## Latest Market Snapshot
 
 Top Coin: Bitcoin  
-Top Gainer: Gram (prev. Toncoin)  
+Top Gainer: Hyperliquid  
 Highest Volume: Tether  
-Last Updated: 2026-11-12 12:20:47
+Last Updated: 2026-11-13 11:57:51
